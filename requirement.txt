@@ -1,0 +1,4 @@
+1. Install selenium.
+2. Import webdriver
+3. Import Service, By, Keys
+4. Import json, time, unittest HtmlTestRunner
